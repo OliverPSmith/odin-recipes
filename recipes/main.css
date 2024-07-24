@@ -1,0 +1,65 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 42px;
+}
+
+.home-links {
+    background-color: red;
+    font-size: 22px;
+    display: inline-block;
+    width: 600px;
+    padding: 20px 60px;
+    border: 4px solid black;
+
+}
+
+.home-links li a {
+    color: aliceblue;
+    background-color: blueviolet;
+    display: block;
+    margin: 12px 0;
+    padding: 6px 12px;
+}
+
+
+#burger-button, 
+#pizza-button {
+    font-size: 32px;
+}
+#thai-button {
+    font-weight: bolder;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+h2,
+h3 {
+    text-decoration: underline;
+}
+
+.description-text {
+    background-color: aliceblue;
+    padding: 20px 0;
+}
+
+.ingredients-list {
+    text-align: right;
+}
+
+ol li {
+    background-color: pink;
+    margin-bottom: 4px;
+    padding: 4px 2px;
+}
+
+.home-button {
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+    font-weight: bolder;
+
+}
